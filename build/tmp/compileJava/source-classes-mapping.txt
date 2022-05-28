@@ -1,0 +1,20 @@
+com/automationpractice/userinterfaces/AddCart.java
+ com.automationpractice.userinterfaces.AddCart
+com/automationpractice/userinterfaces/ColorChange.java
+ com.automationpractice.userinterfaces.ColorChange
+com/automationpractice/tasks/CheckPressureProduct.java
+ com.automationpractice.tasks.CheckPressureProduct
+com/automationpractice/interactions/Wait.java
+ com.automationpractice.interactions.Wait
+com/automationpractice/questions/VerifyPressureProduct.java
+ com.automationpractice.questions.VerifyPressureProduct
+com/automationpractice/questions/VerifyColorChange.java
+ com.automationpractice.questions.VerifyColorChange
+com/automationpractice/userinterfaces/CheckPressure.java
+ com.automationpractice.userinterfaces.CheckPressure
+com/automationpractice/tasks/ColorChangeProduct.java
+ com.automationpractice.tasks.ColorChangeProduct
+com/automationpractice/questions/VerifyAddProductCart.java
+ com.automationpractice.questions.VerifyAddProductCart
+com/automationpractice/tasks/AddProductCart.java
+ com.automationpractice.tasks.AddProductCart
